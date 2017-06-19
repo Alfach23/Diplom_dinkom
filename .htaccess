@@ -1,0 +1,3 @@
+RewriteEngine On
+#RewriteCond %{HTTP_HOST} !^domain\.ru$ [NC]
+RewriteRule ^(.+)?$ /web/$1
