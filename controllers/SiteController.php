@@ -8,6 +8,8 @@ use yii\web\Controller;
 use yii\filters\VerbFilter;
 use app\models\LoginForm;
 use app\models\ContactForm;
+use app\models\Comments;
+use yii\data\Pagination;
 
 class SiteController extends Controller
 {
@@ -121,5 +123,31 @@ class SiteController extends Controller
     public function actionAbout()
     {
         return $this->render('about');
+    }
+    
+    public function actionComments()
+    {
+        
+        $comments = Comments::find()->all();
+        
+        return $this->render('comments', [
+                'comments' => $comments
+        ]);
+        /*$comments = Comments::find()->all();
+        
+        $pagination = new Pagination([
+            'defaultPageSize' => 10,
+            'totalCount' => $comments->count()
+        ]);
+        
+        
+        $comments = $comments->offset($pagination->offset)
+                ->limit($pagination->limit)
+                ->all();
+        
+        return $this->render('comments', [
+                'comments' => $comments,
+                'pagination' => $pagination
+        ]);*/
     }
 }

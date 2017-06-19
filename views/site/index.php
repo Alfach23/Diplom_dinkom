@@ -7,45 +7,42 @@ $this->title = 'ДИНКОМ система оценок';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Congratulations!</h1>
+        <h1>Добро пожаловать!</h1>
 
-        <p class="lead">You have successfully created your Yii-powered application.</p>
+        <!--<p class="lead">You have successfully created your Yii-powered application.</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
+        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>-->
     </div>
 
     <div class="body-content">
 
         <div class="row">
             <div class="col-lg-4">
-                <h2>Проверка</h2>
+                <h2>1997</h2>
 
-                <p>Lorem ipsum dolor текст amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna текст. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <p>19 декабря 1997 года, наш Учебный центр был зарегистрирован в Налоговой инспекции. 
+                    С момента основания наш учебный центр занялся организацией семинаров, тренингов и курсов для всех категорий граждан.</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
+                <!--<p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>-->
             </div>
             <div class="col-lg-4">
-                <h2>Heading</h2>
+                <h2>2014</h2>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <p>Учебно деловой центр ДИНКОМ подписал соглашение о сотрудничестве с Бизнес школой ДИПОЛЬ г.Саратов. 
+                    Данное сотрудничество позволило нам добавить в портфель курсы повышения квалификации для финансистов и руководителей. Данные курсы отличаются высокой конверсией знаний в практику, а также, благодаря высокому профессионализму разработчиков, контент курсов постоянно обновляются.</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
+                <!--<p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>-->
             </div>
             <div class="col-lg-4">
-                <h2>Heading</h2>
+                <h2>2015</h2>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <p>25 июня 2015 года мы внесли изменения в наименование и организационно-правовую форму 
+                    нашего учреждения в соответствии с Федеральным законом "Об образовании в Российской Федерации"
+                    и Гражданским кодексом РФ. Старое наименование: Негосударственное образовательное учреждение
+                    "Учебно-Деловой центр "Динком", новое наименование Учреждения: Частное образовательное учреждение
+                    дополнительного профессионального образования "Учебно-Деловой Центр "ДИНКОМ". Сокращенное наименование ЧОУ ДПО "УДЦ "ДИНКОМ".</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
+                <!--<p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>-->
             </div>
         </div>
 

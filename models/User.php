@@ -15,7 +15,7 @@ class User extends \yii\base\Object implements \yii\web\IdentityInterface
             'id' => '100',
             'username' => 'adminSergeiP',
             'password' => 'Piegresnimdaq12',
-            'authKey' => 'test1010key',
+            'authKey' => 'test100key',
             'accessToken' => '100-token',
         ],
         '101' => [
@@ -29,15 +29,22 @@ class User extends \yii\base\Object implements \yii\web\IdentityInterface
             'id' => '102',
             'username' => 'adminHead2',
             'password' => 'gnow938h11e',
-            'authKey' => 'test101key',
-            'accessToken' => '101-token',
+            'authKey' => 'test102key',
+            'accessToken' => '102-token',
         ],
         '103' => [
             'id' => '103',
             'username' => 'adminHead3',
             'password' => 'jq0382ujwl',
-            'authKey' => 'test101key',
-            'accessToken' => '101-token',
+            'authKey' => 'test103key',
+            'accessToken' => '103-token',
+        ],
+        '104' => [
+            'id' => '104',
+            'username' => 'admin',
+            'password' => 'admin',
+            'authKey' => 'test104key',
+            'accessToken' => '104-token',
         ],
     ];
 
